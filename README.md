@@ -1,4 +1,4 @@
-# Lumina - Book Library App 📚
+# Lumina - Book Reading and Library App 📚
 
 Lumina is a feature-rich, optimized, and user-friendly e-book library app designed for book lovers. Built with Kotlin and Jetpack Compose, Lumina offers a seamless reading experience with a vast collection of e-books, intuitive UI, and efficient data management using Firebase Realtime Database and Room Database.
 
