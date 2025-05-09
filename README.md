@@ -5,7 +5,7 @@ Lumina is a feature-rich, optimized, and user-friendly e-book library app design
 ## 📌 Key Features
 
 * 📖 **Vast E-Book Library** – Utilized Firebase Realtime Database to store and manage books across multiple genres. Users can browse books in real-time and filter them by genre, author, or popularity.
-* 📖 **Built-in Reader** – Integrated a PDF reader using the Android PDFView library, supporting features like pinch-to-zoom, text highlighting, and bookmarks. Efficiently renders large e-books using ViewModel and Jetpack Compose.
+* 📖 **Built-in Reader** – Integrated a PDF reader using the Bouquet jetpack compose pdf reader library, supporting features like pinch-to-zoom, text highlighting, and bookmarks. Efficiently renders large e-books using ViewModel and Jetpack Compose.
 * 📖 **Bookmark & Favorites** – Implemented a Bookmark and Favorites system using Room Database for offline storage, synchronized with Firebase for cross-device access.
 * 📖 **Offline Reading Mode** – Allows users to download books for offline access, managed using Room Database and WorkManager for background tasks.
 * 📖 **Realtime Database** – Firebase Realtime Database for efficient, real-time data fetching and management. Firebase Cloud Functions for notifications and data management.
